@@ -1,4 +1,4 @@
-### Hi, check out my status 👋
+### Hi there, check out my status 👋
 
 <!--
 **Malmulla19/Malmulla19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
